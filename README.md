@@ -1,7 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Argho Dev
 =================================================================================================================================
 
-Web Developer and web Designer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&random=false&width=435&lines=Web+Developer+%26+Web+Designer)](https://git.io/typing-svg)
+
+
+Web Developer and Web Designer
 ------------------------------
 
 A passionate web developer with one year of experience crafting responsive, user-centric websites and applications. Proficient in HTML, CSS, and JavaScript, with a growing interest in React and full-stack development. Successfully built projects, leveraging my strong problem-solving skills and meticulous coding practices. My passion for clean code and collaborative spirit, coupled with a hunger for continuous learning, make me a fast-growing asset to any team and contribute, I'm seeking opportunities to collaborate with innovative teams and build impactful web experiences.
