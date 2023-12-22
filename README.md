@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&random=false&width=435&lines=Web+Developer+%26+Web+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F94997&random=false&width=500&lines=Full-Stack+Web+Developer+%26+Web+Designer)](https://git.io/typing-svg)
 ------------------------------
 
 A passionate web developer with one year of experience crafting responsive, user-centric websites and applications. Proficient in HTML, CSS, and JavaScript, with a growing interest in React and full-stack development. Successfully built projects, leveraging my strong problem-solving skills and meticulous coding practices. My passion for clean code and collaborative spirit, coupled with a hunger for continuous learning, make me a fast-growing asset to any team and contribute, I'm seeking opportunities to collaborate with innovative teams and build impactful web experiences.
@@ -15,10 +15,10 @@ A passionate web developer with one year of experience crafting responsive, user
 * 🧠  I'm learning Mobile App Development
 * ⚡  I have also knowledge about "Graphic Designing and Digital Marketing"
 
-<a href="https://www.github.com/arghodev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/arghodev?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arghodev&label=Profile%20views&color=0e75b6&style=flat" alt="arghodev" /> </p>
+
+
+
 
 ### Skills
 
@@ -68,10 +68,7 @@ src="https://img.shields.io/github/followers/arghodev?logo=github&style=for-the-
 
 
 
-
-### Badges
-
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/arghodev"><img src="https://github-readme-stats.vercel.app/api?username=arghodev&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="arghodev's GitHub stats" /></a>
 
@@ -83,7 +80,7 @@ src="https://img.shields.io/github/followers/arghodev?logo=github&style=for-the-
 
 ### Socials
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://dev.to/arghodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="arghodev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arghodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arghodev" height="30" width="40" /></a>
