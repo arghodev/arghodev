@@ -16,6 +16,8 @@ A passionate web developer with one year of experience crafting responsive, user
 <a href="https://www.github.com/arghodev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/arghodev?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arghodev&label=Profile%20views&color=0e75b6&style=flat" alt="arghodev" /> </p>
+
 ### Skills
 
 
@@ -53,9 +55,9 @@ src="https://img.shields.io/github/followers/arghodev?logo=github&style=for-the-
 
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arghodev&label=Profile%20views&color=0e75b6&style=flat" alt="arghodev" /> </p>
+
+
 
 
 <h3 align="left">Connect with me:</h3>
