@@ -46,8 +46,9 @@ A passionate web developer with one year of experience crafting responsive, user
 
 
 
-### Skills
 
+ <h2 align="center">Skills</h2>
+<br>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
@@ -90,21 +91,22 @@ A passionate web developer with one year of experience crafting responsive, user
 </div>
 
 
+<br>
 
 
-
-
-### My GitHub Stats
+ <h2 align="center">My GitHub Stats</h2>
+<br>
 
 <a href="http://www.github.com/arghodev"><img src="https://github-readme-stats.vercel.app/api?username=arghodev&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="arghodev's GitHub stats" /></a>
 
 <a href="http://www.github.com/arghodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arghodev&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/arghodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghodev&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<br>
 
 
 
-### Socials
+ <h2>Socials</h2>
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
@@ -122,3 +124,7 @@ A passionate web developer with one year of experience crafting responsive, user
 
 
 
+<!---------------------------------------------------------footer----------------------------------------------------------------------------------------->   
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
+</p> 
