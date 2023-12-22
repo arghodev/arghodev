@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Argho Dev
 =================================================================================================================================
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&random=false&width=435&lines=Web+Developer+%26+Web+Designer)](https://git.io/typing-svg)
 
 
-Web Developer and Web Designer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&random=false&width=435&lines=Web+Developer+%26+Web+Designer)](https://git.io/typing-svg)
 ------------------------------
 
 A passionate web developer with one year of experience crafting responsive, user-centric websites and applications. Proficient in HTML, CSS, and JavaScript, with a growing interest in React and full-stack development. Successfully built projects, leveraging my strong problem-solving skills and meticulous coding practices. My passion for clean code and collaborative spirit, coupled with a hunger for continuous learning, make me a fast-growing asset to any team and contribute, I'm seeking opportunities to collaborate with innovative teams and build impactful web experiences.
@@ -74,13 +73,11 @@ src="https://img.shields.io/github/followers/arghodev?logo=github&style=for-the-
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/arghodev"><img src="https://github-readme-stats.vercel.app/api?username=arghodev&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="arghodev's GitHub stats" /></a>
+<a href="http://www.github.com/arghodev"><img src="https://github-readme-stats.vercel.app/api?username=arghodev&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="arghodev's GitHub stats" /></a>
 
-<a href="http://www.github.com/arghodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arghodev&stroke=ffffff&background=1c1917&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/arghodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arghodev&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/arghodev"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=arghodev&bg_color=1c1917&color=ffffff&line=ec4899&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/arghodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghodev&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/arghodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghodev&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
 
@@ -95,6 +92,7 @@ src="https://img.shields.io/github/followers/arghodev?logo=github&style=for-the-
 <a href="https://instagram.com/argho.dev_piyal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="argho.dev_piyal" height="30" width="40" /></a>
 <a href="https://medium.com/@arghodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arghodev" height="30" width="40" /></a>
 </p>
+
 
 
 
