@@ -57,7 +57,6 @@ src="https://img.shields.io/github/followers/arghodev?logo=github&style=for-the-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arghodev&label=Profile%20views&color=0e75b6&style=flat" alt="arghodev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arghodev" alt="arghodev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -69,11 +68,7 @@ src="https://img.shields.io/github/followers/arghodev?logo=github&style=for-the-
 <a href="https://medium.com/@arghodev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arghodev" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arghodev&show_icons=true&locale=en&layout=compact" alt="arghodev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arghodev&show_icons=true&locale=en" alt="arghodev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arghodev&" alt="arghodev" /></p>
 
 
 
