@@ -1,3 +1,16 @@
+<!-------------------------------------------------visitor count------------------------------------------------------------------------------------------>
+<p align="right">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2300EF07&size=22&duration=4000&center=true&vCenter=true&width=190&height=20&lines=Visitor+Counter">
+  </a>
+ <br>
+ <img src="https://profile-counter.glitch.me/{arghodev}/count.svg" align="right"/>
+ <br>
+</p>
+
+<!-------------------------------------------------visitor count------------------------------------------------------------------------------------------>
+
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Argho Dev
 =================================================================================================================================
 
@@ -6,16 +19,29 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=F94997&random=false&width=500&lines=Full-Stack+Web+Developer+%26+Web+Designer)](https://git.io/typing-svg)
 ------------------------------
 
-A passionate web developer with one year of experience crafting responsive, user-centric websites and applications. Proficient in HTML, CSS, and JavaScript, with a growing interest in React and full-stack development. Successfully built projects, leveraging my strong problem-solving skills and meticulous coding practices. My passion for clean code and collaborative spirit, coupled with a hunger for continuous learning, make me a fast-growing asset to any team and contribute, I'm seeking opportunities to collaborate with innovative teams and build impactful web experiences.
-
+A passionate web developer with one year of experience crafting responsive, user-centric websites and applications. Proficient in HTML, CSS, and JavaScript, with a growing interest in React and full-stack development. Successfully built projects, leveraging my strong problem-solving skills and meticulous coding practices. My passion for clean code and collaborative spirit, coupled with a hunger for continuous learning, make me a fast-growing asset to any team and contribute, I'm seeking opportunities to collaborate with innovative teams and build impactful web experiences.<br><p><img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" alt="gif" width ="300" height = "300" /></p>
+<br>
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [My Portfolio](http://myporfolio)
-* ✉️  You can contact me at [arghodev@gmail.com](mailto:arghodev@gmail.com )
+* ✉️  You can contact me at [arghodev@gmail.com](mailto:arghodev@gmail.com ) 
 * 🚀  I'm currently working on [Web Application](http://web.applications )
 * 🧠  I'm learning Mobile App Development
-* ⚡  I have also knowledge about "Graphic Designing and Digital Marketing"
-
-
+* ⚡  I have also knowledge about "Graphic Designing and Digital Marketing" <br>
+<br>
+<br>
+<br>
+<!-- download cv button -->
+<h4 align = "center" >
+<a href="" >
+<img src="https://img.shields.io/badge/Download%20CV-Argho%20Dev-blue" />
+</a>
+ </h4>
+ 
+<div align = "center">
+       <img alt="GitHub followers" src="https://img.shields.io/github/followers/arghodev?style=social"> &nbsp;
+       <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/arghodev?style=social">
+ </div>
+<br>
 
 
 
