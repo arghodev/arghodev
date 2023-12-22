@@ -32,6 +32,7 @@ A passionate web developer with one year of experience crafting responsive, user
 <br>
 <br>
 <br>
+<br>
 <!-- download cv button -->
 <h4 align = "center" >
 <a href="" >
