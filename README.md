@@ -1,6 +1,6 @@
 ![MasterHead](./1280.gif)
 
-<!-------------------------------------------------visitor count------------------------------------------------------------------------------------------>
+<!-------------------------------------------------visitor count------------------------------------------------------------------------------------------
 <p align="right">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&color=%2300EF07&size=22&duration=4000&center=true&vCenter=true&width=190&height=20&lines=Visitor+Counter">
@@ -10,7 +10,7 @@
  <br>
 </p>
 
-<!-------------------------------------------------visitor count------------------------------------------------------------------------------------------>
+-------------------------------------------------visitor count------------------------------------------------------------------------------------------>
 
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) i am Argho Dev
@@ -54,7 +54,10 @@ A passionate web developer with one year of experience crafting responsive, user
 
 
 
- <h2 align="center">Skills</h2>
+ <h2 align="center">Skills</h2> 
+<p align="center">
+<img src="https://camo.githubusercontent.com/94b33bd991f6c3135af747bdf27361be43e797c0fce678b62ed5aef57e9d8bd7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966"/>
+</p> 
 <br>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
@@ -106,8 +109,9 @@ A passionate web developer with one year of experience crafting responsive, user
 
 <a href="http://www.github.com/arghodev"><img src="https://github-readme-stats.vercel.app/api?username=arghodev&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&show_icons=true" alt="arghodev's GitHub stats" /></a>
 
+<!-- 
 <a href="http://www.github.com/arghodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arghodev&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
+-->
 <a href="https://github.com/arghodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghodev&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 <br>
 
@@ -131,7 +135,25 @@ A passionate web developer with one year of experience crafting responsive, user
 
 
 
+
+
+
+
+
 <!---------------------------------------------------------footer----------------------------------------------------------------------------------------->   
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&width=330&section=footer"/>
+<img src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg"/>
 </p> 
+
+
+
+
+
+
+
+
+
+
+
