@@ -114,6 +114,11 @@ A passionate web developer with one year of experience crafting responsive, user
 <a href="http://www.github.com/arghodev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arghodev&stroke=ffffff&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 -->
 <a href="https://github.com/arghodev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arghodev&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arghodev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 <br>
 
 <!-- 
@@ -127,12 +132,6 @@ A passionate web developer with one year of experience crafting responsive, user
  <h2>Socials</h2>
 
 <h4 align="left">Connect with me:</h4>
-
-
-
-
-
-
 
 <div align="left">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
