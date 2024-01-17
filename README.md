@@ -165,6 +165,8 @@ A passionate web developer with one year of experience crafting responsive, user
 
 
 
+<div align='center'><a href='https://www.websitecounterfree.com'><img src='https://www.websitecounterfree.com/c.php?d=9&id=47964&s=1' border='0' alt='Free Website Counter'></a><br / ><small></small></div>
+
 
 
 
