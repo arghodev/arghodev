@@ -40,9 +40,9 @@ A passionate web developer with one year of experience crafting responsive, user
 <br>
 
  <h2 align="center">Skills</h2> 
-<p align="center">
-<img  src="https://camo.githubusercontent.com/94b33bd991f6c3135af747bdf27361be43e797c0fce678b62ed5aef57e9d8bd7/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="200" height="200" />
-</p> 
+<div align="center">
+  <img alt="GitHub User's stars" src="https://github.com/arghodev/arghodev/blob/main/giphy.gif" width="150" height="100" >
+</div> 
 <br>
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" alt="GraphQL" title="GraphQL"/></code>
